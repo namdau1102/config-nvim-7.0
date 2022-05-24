@@ -41,7 +41,7 @@ Install nvim-linux64.deb -> sudo dpkg -i nvim-linux64.deb
 Convert keyword nvim to vim 
 ```sh
 which nvim ( "copy link folder")
-ln -s (link folder nvim) /usr/bin/vim
+ln -s ( "link folder nvim" ) /usr/bin/vim
 Check keyword status : which vim 
 ```
 
