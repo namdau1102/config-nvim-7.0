@@ -1,7 +1,7 @@
 #  How to config nvim 7.0 ![N](https://i.ibb.co/F39VVjK/vim-icon-1.png) 
 ## ------------------
 
-![N|Solid]([http://images6.fanpop.com/image/photos/41500000/Beautiful-Anime-Banner-gdragon-sunny-cat-41532037-1500-500.jpg](https://images7.alphacoders.com/810/810571.png)
+![N|Solid](https://images7.alphacoders.com/810/810571.png)
 ## NVIM 7.0
 ![N](https://icons.iconarchive.com/icons/bokehlicia/captiva/256/vim-icon.png) 
 
