@@ -82,7 +82,7 @@ cd .config
 mkdir nvim
 ```
 Copy all file folder nvim 
-Install All Pakage nvim 
+Install All Plugin nvim 
 ```sh
 vim 
 :PlugInstall
