@@ -1,7 +1,7 @@
 #  How to config nvim 7.0 ![N](https://i.ibb.co/F39VVjK/vim-icon-1.png) 
 ## ------------------
 
-![N|Solid](http://images6.fanpop.com/image/photos/41500000/Beautiful-Anime-Banner-gdragon-sunny-cat-41532037-1500-500.jpg)
+![N|Solid]([http://images6.fanpop.com/image/photos/41500000/Beautiful-Anime-Banner-gdragon-sunny-cat-41532037-1500-500.jpg](https://images7.alphacoders.com/810/810571.png)
 ## NVIM 7.0
 ![N](https://icons.iconarchive.com/icons/bokehlicia/captiva/256/vim-icon.png) 
 
@@ -41,7 +41,7 @@ Install nvim-linux64.deb -> sudo dpkg -i nvim-linux64.deb
 Convert keyword nvim to vim 
 ```sh
 which nvim ( "copy link folder")
-ln -s ( "link folder nvim" ) /usr/bin/vim
+ln -s (link folder nvim) /usr/bin/vim
 Check keyword status : which vim 
 ```
 
@@ -74,7 +74,20 @@ Instructions on how to use them in your own application are linked below.
 | nvim-treesitter | [https://github.com/nvim-treesitter/nvim-treesitter][PlGa] |
 | nvim-ts-autotag | [https://github.com/windwp/nvim-ts-autotag][PlGa] |
 
-
+Create .config/nvim
+Open terminal
+```sh
+cd 
+cd .config
+mkdir nvim
+```
+Copy all file folder nvim 
+Install All Pakage nvim 
+```sh
+vim 
+:PlugInstall
+:q
+```
 ## Contacts
 
 - Youtube - [Đậu Nam PC](https://www.youtube.com/channel/UC-82KLaY-q6PxW4HeghpMcw)
